@@ -1,0 +1,26 @@
+[
+  {
+    "id": "apple",
+    "title": "Apple",
+    "text": "Apples are edible fruits that are often round and can be red, green, or yellow. They are commonly eaten fresh or used in desserts.",
+    "metadata": {
+      "source": "sample"
+    }
+  },
+  {
+    "id": "traffic_light",
+    "title": "Traffic light",
+    "text": "A traffic light is a signaling device used at road intersections and crossings. Red means stop, green means go, and yellow usually warns that the signal is changing.",
+    "metadata": {
+      "source": "sample"
+    }
+  },
+  {
+    "id": "bicycle",
+    "title": "Bicycle",
+    "text": "A bicycle is a human-powered vehicle with two wheels, pedals, handlebars, and a frame. It is often used for transport, exercise, or recreation.",
+    "metadata": {
+      "source": "sample"
+    }
+  }
+]
